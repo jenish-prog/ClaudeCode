@@ -183,3 +183,4 @@ Proxy activity is logged silently to `data/proxy.log` — it never writes to the
 ## License
 
 MIT — use it, fork it, ship it.
+# ClaudeCode
